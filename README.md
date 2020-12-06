@@ -4,7 +4,7 @@
   - Renders a filterable collection/list with create and delete operations persisted by document db
  - SCSS from scratch no CSS frameworks
  
-![Alt text](https://www.c0dez0ne.com/img/listings.jpg "UI Screen")
+![Alt text](https://www.c0dez0ne.com/img/listingss.jpg "UI Screen")
  
  ## Frontend
  - Vue.js
