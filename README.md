@@ -1,4 +1,5 @@
-# Dockerized Vue.js Front End with Node/Express/MongoDB Back End
+# Dockerized Modern Full Stack
+### Vue.js Front End with Node/Express/MongoDB Back End
 
  Full Stack demo Dockerized in a portable ecosystem
   - Renders a filterable collection/list with create and delete operations persisted by document db
